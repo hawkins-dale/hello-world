@@ -1,3 +1,3 @@
 # hello-world
-this is the edited version
-yes I have edited it.
+This is the edited, tidied-up version.
+
